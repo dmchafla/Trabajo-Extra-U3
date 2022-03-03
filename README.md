@@ -86,12 +86,24 @@ Con el taipe o cinta aislante recubir parte del soporte para evitar que exista c
 Con el hilo de cobre esmaltado recubir las partes laterales alrededor del motor con los imanes y sobre la cinta aislante, y de igual forma conectar los cables del diodo led.
 
 ![image](https://user-images.githubusercontent.com/93415377/156569493-e5154c28-b36e-4592-a0f0-5f44e9db5f2c.png)
+![image](https://user-images.githubusercontent.com/93415377/156569808-f41d786a-a618-4ab0-9518-155fa5da7e82.png)
+
+El hilo de cobre debe ser unico para ambos lados.
+
+![image](https://user-images.githubusercontent.com/93415377/156569867-8e7773cc-9d84-4e66-9bf2-0f0c883ff416.png)
 
 
 5.- Video
 
 6.- Conclusiones
 
+  •	Mediante la construccion de un generador electrico casero se logro determinar que el generador se considera equipo primario dentro de las plantas de generación, por lo cual se debe de contar con dispositivos que presenten un alto nivel de protección, así como un monitoreo continuo y detección oportuna ante eventualidades.
+  
+  •	De acuerdo al principio de induccion de Faraday que las lineas de fuerza de un campo magnetico atraviezan una pieza de un material conductor dentro de esa espira se produce una corriente electriva, y mediante la creacion del generador electrico se puede ver que se cumple con el principio de induccion de Faraday.
+  
+  •	De acuerdo a la necesidad de produccion de energia, los generadores se diferencian según el tipo de corriente que producen, dando lugar a dos grandes grupos: los alternadores y las dinamos.
+  
+  •	Los dinamos son funcionales en la vida cotidiana, la cual es una máquina eléctrica rotativa a la cual al suministrarle energía mecánica y la transforma en energía eléctrica en corriente continua. 
 
 7.- Bibliografias
 
