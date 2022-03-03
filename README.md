@@ -66,6 +66,28 @@ La Ley de Faraday. Esta ley nos dice que el voltaje inducido en un circuito es d
 
 4.- Procedimiento
 
+Unir los imanes de ferrita al motor y con la cinta scotch para mantener firme los imanes de ferrita. 
+
+![image](https://user-images.githubusercontent.com/93415377/156568825-0ae9d19f-b552-4d30-b721-3115151bc0d1.png)
+
+En el soporte de metal pegar unos pequeños soportes donde serviran de soporte de giro del motor.
+
+![image](https://user-images.githubusercontent.com/93415377/156569142-4b5688aa-08d5-4153-ba64-4f5132ae9654.png)
+
+Acoplar el motor con los imanes en los soportes de encaje.
+
+![image](https://user-images.githubusercontent.com/93415377/156569294-ff4f0fb0-f5f6-4d6c-bc66-110686562b9c.png)
+
+
+Con el taipe o cinta aislante recubir parte del soporte para evitar que exista contacto entre cables y produzca cortocircuito.
+
+![image](https://user-images.githubusercontent.com/93415377/156569463-7cf8cde0-93c4-48d8-96a5-661f7e3e49a3.png)
+
+Con el hilo de cobre esmaltado recubir las partes laterales alrededor del motor con los imanes y sobre la cinta aislante, y de igual forma conectar los cables del diodo led.
+
+![image](https://user-images.githubusercontent.com/93415377/156569493-e5154c28-b36e-4592-a0f0-5f44e9db5f2c.png)
+
+
 5.- Video
 
 6.- Conclusiones
