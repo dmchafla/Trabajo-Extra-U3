@@ -95,6 +95,8 @@ El hilo de cobre debe ser unico para ambos lados.
 
 5.- Video
 
+https://www.youtube.com/watch?v=wbQL5QTpiMg
+
 6.- Conclusiones
 
   •	Mediante la construccion de un generador electrico casero se logro determinar que el generador se considera equipo primario dentro de las plantas de generación, por lo cual se debe de contar con dispositivos que presenten un alto nivel de protección, así como un monitoreo continuo y detección oportuna ante eventualidades.
