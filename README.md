@@ -95,7 +95,12 @@ El hilo de cobre debe ser unico para ambos lados.
 
 5.- Video
 
+    Mini Generador Eléctrico Manual
 https://www.youtube.com/watch?v=wbQL5QTpiMg
+
+    Desmontacion Mini Generador Eléctrico Manual
+    
+https://www.youtube.com/watch?v=QFiCfjKWXPY
 
 6.- Conclusiones
 
